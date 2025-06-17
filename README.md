@@ -19,7 +19,7 @@ Easily generate strong, customizable passwords with options to include uppercase
 
 ## Screenshots
 
-![Password Generator Screenshot](Screenshot 2025-06-17 214142.png)  
+![Password Generator Screenshot](Screenshot2025-06-17 214142.png)  
 
 ---
 
